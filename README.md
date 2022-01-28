@@ -8,3 +8,8 @@
 - 📫 How to reach me: varanasi.20bce7315@vitap.ac.in
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I spend almost 12 hours listening music everyday. 
+
+Languages 💻
+
+Tools/ Libraries 🚀
+             
