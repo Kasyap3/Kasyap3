@@ -9,7 +9,7 @@
 
 - Reach me at **varanasikasyap@gmail.com**
 
-- My Portfolio](https://kasyap3.github.io/kasyap_portfolio/)
+- My Portfolio(https://kasyap3.github.io/kasyap_portfolio/)
 
 
 
@@ -99,13 +99,6 @@
 
 <hr>
 <div style="margin-top: 20px"></div>
-<p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=kasyap3&show_icons=true&locale=en&layout=compact"
-        alt="kasyap3" /></p>
-
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=kasyap3&show_icons=true&locale=en"
-        alt="kasyap3" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasyap3&"
         alt="kasyap3" /></p> 
