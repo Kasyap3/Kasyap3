@@ -1,5 +1,5 @@
 <h1 align="center" style="font-weight: 700">Hi 👋, I'm Kasyap Varanasi</h1>
-<h3 align="center">AI @ Aira | UMass Amherst’ 26 , UofT, OTU, VIT, KDL | prev: Microsoftt
+<h3 align="center">AI @ Brief | UMass Amherst’ 26 , UofT, OTU, VIT, KDL | prev: Microsoftt, Aira
 </h3>
 
 <p align="left"> <img
