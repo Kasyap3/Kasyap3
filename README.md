@@ -8,4 +8,4 @@
 
 - Reach me at **varanasikasyap@gmail.com**
 
-- My Portfolio(https://kasyap3.github.io/kasyap_portfolio/)
+- My Portfolio(https://kasyap3.github.io/website/)
